@@ -29,9 +29,8 @@ Welcome to my GitHub profile! 🚀
 
 ## 📫 Get in Touch
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Website/Portfolio:** [your-website.com](https://your-website.com)
+- **Email:** [suhas.pindiproli@lexisnexisrisk.com](mailto:suhas.pindiproli@lexisnexisrisk.com)
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/suhas-pindiproli)
 
 ---
 
