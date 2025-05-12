@@ -1,4 +1,4 @@
-# Hi there, I'm Pindiprs! 👋
+# Hi there, I'm Suhas! 👋
 
 Welcome to my GitHub profile! 🚀
 
