@@ -30,7 +30,7 @@ Welcome to my GitHub profile! 🚀
 ## 📫 Get in Touch
 
 - **Email:** [suhas.pindiproli@lexisnexisrisk.com](mailto:suhas.pindiproli@lexisnexisrisk.com)
-- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/suhas-pindiproli)
+- **LinkedIn:** [Suhas Pindiproli](https://www.linkedin.com/in/suhas-pindiproli)
 
 ---
 
