@@ -14,8 +14,8 @@ Welcome to my GitHub profile! 🚀
 
 ## 🌟 Skills
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js, Django
+- **Languages:** Python, JavaScript, Java
+- **Frameworks:** React, SpringBoot, Node.js, Django
 - **Tools:** Git, Docker, Kubernetes
 - **Others:** REST APIs, GraphQL, CI/CD pipelines
 
